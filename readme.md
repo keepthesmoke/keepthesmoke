@@ -1,12 +1,10 @@
-Hello, I'm Max Mykhalchuk
-=========================
+# Hi, I'm Max Mykhalchuk
 
-Web Developer and Maker
------------------------
+## Web Developer and Maker
 
-* 🦄  **I enjoy creating.** Coding is the perfect tool for that.
-* ⚡  **I believe in starting early.** So expect MVP versions fast.
-* 💭  I share my thoughts and challenges on [**Bluesky**](https://bsky.app/profile/s1mpson.bsky.social), [**Threads**](https://www.threads.net/@s1mpsondev).
+* 🦄  **I enjoy solving problems.** <!-- Coding, for me, is just a way to achieve that. -->
+* ⚡  I make indie projects that make my _and your_ lives easier.
+* 👀  Follow me on [**Threads**](https://www.threads.net/@s1mpsondev) and [**Bluesky**](https://bsky.app/profile/s1mpson.dev) for sneak peeks and updates.
 
 ### Things I've made:
 
